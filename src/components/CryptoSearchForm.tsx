@@ -54,7 +54,7 @@ export const CryptoSearchForm = () => {
             </select>
         </div>
         <div className="field">
-            <label htmlFor="crytocurrency">Cryptocurrency:</label>
+            <label htmlFor="cryptocurrency">Cryptocurrency:</label>
             <select 
                 name="cryptocurrency" 
                 id="cryptocurrency" 
